@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">aMessage</string>
+    <string name="edit_text_login_email">Email</string>
+    <string name="edit_text_username">Username</string>
+    <string name="edit_text_first_name">First Name</string>
+    <string name="edit_text_last_name">Last Name</string>
+    <string name="edit_text_password_name">Password</string>
+    <string name="edit_text_retype_password_name">Retype Password</string>
+    <string name="button_register_email">REGISTER</string>
+    <string name="button_sign_in_name">SIGN IN</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">aMessage</string>
+    <string name="nav_header_subtitle">Group 6</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="reg_success">Registration Successful</string>
+    <string name="reg_success_desc">You have successfully registered. Please be on the lookout for
+    an email regarding steps on how to verify your account. Once it is verified, you can login to our
+    app. Thanks!</string>
+    <string name="action_settings">Settings</string>
+</resources>
